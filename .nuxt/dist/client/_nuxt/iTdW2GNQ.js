@@ -1,0 +1,1 @@
+import{m as e,c as s,o,g as t}from"./CVb3yudB.js";const a={class:"supage-content position-relative"},c=t("h2",{class:"supage-content__h2"},"KAPCSOLAT",-1),_=t("p",null,"feltöltés alatt...",-1),n=[c,_],d={__name:"kapcsolat",setup(l){return e({title:"KAPCSOLAT"}),(i,p)=>(o(),s("div",a,n))}};export{d as default};

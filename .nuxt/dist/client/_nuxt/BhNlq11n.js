@@ -1,0 +1,1 @@
+import{m as e,c as s,o,g as t}from"./CVb3yudB.js";const a={class:"supage-content position-relative"},n=t("h2",{class:"supage-content__h2"},"FÜGGÖNY",-1),c=t("p",null,"feltöltés alatt...",-1),_=[n,c],u={__name:"fuggony",setup(l){return e({title:"Függöny"}),(i,r)=>(o(),s("div",a,_))}};export{u as default};
